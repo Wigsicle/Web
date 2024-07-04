@@ -1,0 +1,553 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SinglearnWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SinglearnWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\css\\templatemo-digimedia-v3.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-digimedia-v3.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\images\\footer-bg-v3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\footer-bg-v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\images\\poop.png",
+      "PackagePath": "staticwebassets\\assets\\images\\poop.png"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\images\\slider-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\images\\slider-left-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-left-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\images\\slider-right-dec.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider-right-dec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\css\\core.css",
+      "PackagePath": "staticwebassets\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery1\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery1\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendor\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\farm_\\OneDrive\\Desktop\\SIT\\Y1T3\\WebProgramming\\project\\SinglearnWeb\\wwwroot\\vendor\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SinglearnWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SinglearnWeb.props",
+      "PackagePath": "build\\SinglearnWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SinglearnWeb.props",
+      "PackagePath": "buildMultiTargeting\\SinglearnWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SinglearnWeb.props",
+      "PackagePath": "buildTransitive\\SinglearnWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
