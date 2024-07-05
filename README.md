@@ -22,7 +22,7 @@ Go in and create db SinglearnDB
 
 In VS -> Tools -> NuGet Package Manager -> Package Manager Console
 
-In Package Manager Console, type Update Database
+In Package Manager Console, type Update-Database (Remember the dash)
 
 This will do the db migration.
 
